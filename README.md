@@ -20,12 +20,12 @@
 		<td bgcolor="#cce4ff" width="50%" valign="top">
 			<h2>Curious by<br>default.</h2>
 			<p>Building with intent.</p>
-			<p>I like turning big questions into useful, physical things.</p>
+			<p>I like turning big questions about people, movement, and the body into useful, physical things.</p>
 		</td>
 		<td bgcolor="#ffd1cf" width="50%" valign="top">
 			<p><strong>FIELD NOTE / 001</strong></p>
 			<br>
-			<p align="center"><strong>MECHANICAL DESIGN<br>+<br>COMPUTATIONAL THINKING<br>+<br>HUMAN-CENTERED SYSTEMS</strong></p>
+			<p align="center"><strong>BIOMECHANICAL ENGINEERING<br>+<br>MECHANICAL DESIGN<br>+<br>HUMAN-CENTERED SYSTEMS</strong></p>
 			<br>
 			<p><strong>LEHIGH / BETHLEHEM, PA</strong></p>
 		</td>
@@ -34,7 +34,7 @@
 
 <br>
 
-<p><strong>MECHANICAL DESIGN</strong>　✳　<strong>COMPUTATIONAL THINKING</strong>　✳　<strong>HUMAN-CENTERED SYSTEMS</strong></p>
+<p><strong>BIOMECHANICAL ENGINEERING</strong>　✳　<strong>MECHANICAL DESIGN</strong>　✳　<strong>HUMAN-CENTERED SYSTEMS</strong></p>
 
 </div>
 
@@ -64,9 +64,9 @@ Small projects, real questions. I’m early in the journey, which means I’m gi
 
 ## About
 
-I’m studying engineering because I want to understand how things work well enough to make them work better. At Lehigh, I’m building a foundation in mechanics, computation, and design while looking for the human story inside every technical problem.
+I’m studying engineering because I want to understand how things work well enough to make them work better. I’m especially interested in biomechanical engineering: the space where mechanics, biology, and thoughtful design meet to support how people move and live.
 
-When I’m not in class, you’ll probably find me sketching a mechanism, taking apart a question, or trying to make a very specific spreadsheet.
+At Lehigh, I’m building a foundation in mechanics, computation, design, mathematics, and physics while exploring how engineering can make movement safer, stronger, and more natural.
 
 <div id="coursework">
 
