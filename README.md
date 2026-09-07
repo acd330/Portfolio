@@ -2,7 +2,7 @@
 
 <br>
 
-<h1>Alex Chen</h1>
+<h1>Annalise Dubeck</h1>
 
 <p><strong>FIRST-YEAR ENGINEERING STUDENT · LEHIGH UNIVERSITY</strong></p>
 
@@ -17,12 +17,12 @@
 
 <table>
 	<tr>
-		<td bgcolor="#dce7f8" width="50%" valign="top">
+		<td bgcolor="#d8ebff" width="50%" valign="top">
 			<h2>Curious by<br>default.</h2>
 			<p>Building with intent.</p>
 			<p>I like turning big questions into useful, physical things.</p>
 		</td>
-		<td bgcolor="#f9ddd2" width="50%" valign="top">
+		<td bgcolor="#ffd9cf" width="50%" valign="top">
 			<p><strong>FIELD NOTE / 001</strong></p>
 			<br>
 			<p align="center"><strong>MECHANICAL DESIGN<br>+<br>COMPUTATIONAL THINKING<br>+<br>HUMAN-CENTERED SYSTEMS</strong></p>
@@ -44,17 +44,17 @@ Small projects, real questions. I’m early in the journey, which means I’m gi
 
 <table>
 	<tr>
-		<td bgcolor="#f9ddd2" width="33%" valign="top">
+		<td bgcolor="#ffd9cf" width="33%" valign="top">
 			<h3>01 / SunFold</h3>
 			<p><strong>CAD / SUSTAINABLE DESIGN</strong></p>
 			<p>A foldable solar phone charger concept designed for campus days that stretch past sunset.</p>
 		</td>
-		<td bgcolor="#dce7f8" width="33%" valign="top">
+		<td bgcolor="#d8ebff" width="33%" valign="top">
 			<h3>02 / AirAware</h3>
 			<p><strong>PYTHON / DATA</strong></p>
 			<p>A simple sensor dashboard for making invisible indoor air quality easier to understand.</p>
 		</td>
-		<td bgcolor="#f8edc9" width="33%" valign="top">
+		<td bgcolor="#fff0b0" width="33%" valign="top">
 			<h3>03 / Load / Line</h3>
 			<p><strong>STATICS / TEAM STUDY</strong></p>
 			<p>Learning the language of structures through trusses, tension, and failure.</p>
