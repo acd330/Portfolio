@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A portfolio for a first-year engineering student at Lehigh University." />
+    <title>Alex Chen | Engineering Student</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Serif+Display:ital@0;1&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="noise" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Alex Chen home"><span class="brand-mark">A</span><span>Alex Chen</span></a>
+      <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="#work">Work</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+        <a class="nav-resume" href="#contact">Let's talk <span>↗</span></a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero section-wrap">
+        <div class="hero-copy reveal">
+          <p class="eyebrow"><span class="status-dot"></span> Available for summer opportunities</p>
+          <h1>Curious by<br /><em>default.</em> Building<br />with intent.</h1>
+          <p class="hero-intro">I’m Alex, a first-year engineering student at Lehigh University who likes turning big questions into useful, physical things.</p>
+          <div class="hero-actions">
+            <a class="button button-dark" href="#work">See selected work <span>↓</span></a>
+            <a class="text-link" href="#contact">Get in touch <span>↗</span></a>
+          </div>
+        </div>
+        <div class="hero-visual reveal reveal-delay" aria-label="A snapshot of Alex's engineering notes">
+          <div class="visual-topline"><span>FIELD NOTE / 001</span><span>40.6084° N, 75.3785° W</span></div>
+          <div class="blueprint">
+            <div class="blueprint-grid"></div>
+            <div class="orbit orbit-one"></div>
+            <div class="orbit orbit-two"></div>
+            <div class="blueprint-label label-top">ITERATE<br /><strong>→</strong></div>
+            <div class="blueprint-label label-bottom">SYSTEMS / PEOPLE<br /><strong>IN THE LOOP</strong></div>
+            <svg class="blueprint-drawing" viewBox="0 0 480 390" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <path d="M91 278C120 214 142 188 186 165C229 142 250 105 287 93C324 81 350 91 379 69" stroke="currentColor" stroke-width="2" />
+              <path d="M91 278L111 293L137 286L159 302L185 291L210 302L239 280L268 289L289 265L315 271L341 245L366 250L379 224" stroke="currentColor" stroke-width="2" />
+              <path d="M379 69L385 96L407 108L401 133L419 153L406 177L420 195L398 212L401 239L379 257" stroke="currentColor" stroke-width="2" />
+              <circle cx="91" cy="278" r="11" stroke="currentColor" stroke-width="2" />
+              <circle cx="379" cy="69" r="11" stroke="currentColor" stroke-width="2" />
+              <path d="M91 278H43M379 69H438M91 278V336M379 69V27" stroke="currentColor" stroke-width="1" stroke-dasharray="4 5" />
+              <path d="M63 278C63 278 75 257 91 257C107 257 119 278 119 278M351 69C351 69 363 48 379 48C395 48 407 69 407 69" stroke="currentColor" stroke-width="1" />
+            </svg>
+            <div class="dimension dimension-x">120 mm</div>
+            <div class="dimension dimension-y">50 mm</div>
+            <div class="stamp">LEHIGH<br /><span>ENGINEERING</span></div>
+          </div>
+          <div class="visual-caption"><span>Sketching the next question</span><span class="mono">01 / 03</span></div>
+        </div>
+      </section>
+
+      <section class="ticker" aria-label="Areas of interest">
+        <div class="ticker-track"><span>MECHANICAL DESIGN</span><i>✳</i><span>COMPUTATIONAL THINKING</span><i>✳</i><span>HUMAN-CENTERED SYSTEMS</span><i>✳</i><span>MECHANICAL DESIGN</span><i>✳</i><span>COMPUTATIONAL THINKING</span><i>✳</i></div>
+      </section>
+
+      <section class="work section-wrap" id="work">
+        <div class="section-heading reveal"><p class="eyebrow">01 / Selected work</p><h2>Small projects,<br /><em>real questions.</em></h2><p class="section-note">I’m early in the journey, which means I’m giving myself permission to follow the interesting problems.</p></div>
+        <div class="project-list">
+          <article class="project project-featured reveal">
+            <div class="project-image project-image-orange"><span class="project-number">01</span><div class="solar-panel"><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="sun-mark">☼</div></div>
+            <div class="project-info"><div><p class="project-type">CAD / Sustainable design</p><h3>SunFold</h3><p>A foldable solar phone charger concept designed for campus days that stretch past sunset.</p></div><a class="circle-arrow" href="#contact" aria-label="Ask about SunFold">↗</a></div>
+          </article>
+          <article class="project reveal reveal-delay-short">
+            <div class="project-image project-image-blue"><span class="project-number">02</span><div class="signal-lines"><span></span><span></span><span></span><span></span></div><div class="signal-dot"></div></div>
+            <div class="project-info"><div><p class="project-type">Python / Data</p><h3>AirAware</h3><p>A simple sensor dashboard for making invisible indoor air quality easier to understand.</p></div><a class="circle-arrow" href="#contact" aria-label="Ask about AirAware">↗</a></div>
+          </article>
+          <article class="project reveal reveal-delay-short">
+            <div class="project-image project-image-yellow"><span class="project-number">03</span><div class="bridge-lines"><span></span><span></span><span></span><span></span><span></span></div><div class="bridge-deck"></div></div>
+            <div class="project-info"><div><p class="project-type">Statics / Team study</p><h3>Load / Line</h3><p>Learning the language of structures through a study of trusses, tension, and failure.</p></div><a class="circle-arrow" href="#contact" aria-label="Ask about Load Line">↗</a></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="about section-wrap" id="about">
+        <div class="about-portrait reveal"><div class="portrait-frame"><div class="portrait-gradient"></div><div class="portrait-lines"></div><span class="portrait-caption">LEHIGH / 2026</span></div><span class="side-note">Currently somewhere between<br />the lab and the library.</span></div>
+        <div class="about-copy reveal reveal-delay"><p class="eyebrow">02 / A little context</p><h2>Learning out loud,<br /><em>one prototype at a time.</em></h2><p>I’m studying engineering because I want to understand how things work well enough to make them work better. At Lehigh, I’m building a foundation in mechanics, computation, and design while looking for the human story inside every technical problem.</p><p>My first-year foundation is taking shape through design, problem solving, mathematics, and physics.</p><div class="skill-list"><span>ENGR 010</span><span>ENGR 095</span><span>MATH 022</span><span>PHYS 011</span><span>PHYS 012</span><span>Design + prototyping</span></div></div>
+      </section>
+
+      <section class="contact section-wrap" id="contact">
+        <div class="contact-inner reveal"><p class="eyebrow">03 / Start a conversation</p><h2>Have a good<br /><em>problem?</em></h2><p>I’m always open to thoughtful conversations, new teams, and projects that make me look at a familiar thing differently.</p><a class="contact-email" href="mailto:alex.chen@example.com">alex.chen@example.com <span>↗</span></a><div class="contact-meta"><span>Based in Bethlehem, PA</span><span>Open to learning together</span></div></div>
+      </section>
+    </main>
+    <footer class="site-footer section-wrap"><span>© <span id="year"></span> Alex Chen</span><span>Made with curiosity in Bethlehem</span><a href="#top">Back to top ↑</a></footer>
+    <script src="script.js"></script>
+  </body>
+</html>
